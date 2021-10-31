@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Venugopal
+- 👀 I’m interested in developing medical software
+- 🌱 I’m currently learning python
